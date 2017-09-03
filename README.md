@@ -10,7 +10,10 @@ The target column is `sales`. Note that in the sales can have a negative number 
 
 ## How to make submissions
 
+*NOTE* test.csv will be coming along at about 10am. It's not that we are still working on it, I swear, it's just to avoid providing distractions to the students... I swear!
+
 1. Slack Sam with the team gif and team name
+1. Load up `train.csv` and predict `sales` for each observation
 1. Using the key given to you, visit http://hackathon-2.lisbondatascience.org/submit and follow the instructions
 
 ## Sample submission
