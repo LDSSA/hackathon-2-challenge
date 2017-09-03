@@ -14,7 +14,7 @@ The target column is `sales`. Note that in the sales can have a negative number 
 
 1. Slack Sam with the team gif and team name
 1. Load up `train.csv` and predict `sales` for each observation
-1. Using the key given to you, visit http://hackathon-2.lisbondatascience.org/submit and follow the instructions
+1. Using the key given to you, visit http://hackathon-2.lisbondatascience.org/make-submission/ and follow the instructions
 
 ## Sample submission
 
